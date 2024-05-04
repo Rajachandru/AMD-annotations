@@ -1,0 +1,1 @@
+Annotations are done in the images (60 images) with Age Related Macular Degeneration and related anomalies (Drusen & CNVM) . The label maps created are in correspondence to the anomalies in the images.  
