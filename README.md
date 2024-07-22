@@ -1,1 +1,2 @@
 Annotations are done in the images (60 images) with Age Related Macular Degeneration and related anomalies (Drusen & CNVM) . The label maps created are in correspondence to the anomalies in the images.  
+The .ipynb file is the code for generation of synthetic images corresponding to specific anomalies of AMD. The anomaly specifications are conditioned through annotation guided spatial attention maps
